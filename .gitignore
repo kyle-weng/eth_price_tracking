@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# from the initial GSS data attempt
+GSS_attempt/
+
+# testing the emcee library
+emcee_test.py
+
+# ignore rough draft results
+methods.docx
+methods.pdf
+poster.psd
+poster.pdf
+poster_and_methods.pdf
+
+# ignore intermediate products of final results
+poster_text.docx
+poster_final.psd
+methods_final.docx
+poster_methods_final.pdf
+
+# ignore figure output; the important ones are in the poster
+figs/
